@@ -7,6 +7,8 @@ You need:
 
 ![alt text](https://yahyaabdulmohsin.com/GravitySimulator2D/initial.png)
 
+![alt text](https://yahyaabdulmohsin.com/GravitySimulator2D/initial1.png)
+
 ![alt text](https://yahyaabdulmohsin.com/GravitySimulator2D/final.png)
 
 Build with g++:
