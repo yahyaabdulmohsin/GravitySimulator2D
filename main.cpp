@@ -96,8 +96,8 @@ int main()
                 float fx;
                 float fy;
                 float distanceInPixels = std::sqrt((obj2x - obj1x) * (obj2x - obj1x) + (obj2y - obj1y) * (obj2y - obj1y));
-                float distanceInKilometers = distanceInPixels * 1000;
-                float f = (G * objects[i].get_mass() * objects[j].get_mass()) / (distanceInKilometers * distanceInKilometers);
+                float distanceInMeters = distanceInPixels * 1000;
+                float f = (G * objects[i].get_mass() * objects[j].get_mass()) / (distanceInMeters * distanceInMeters);
                 //______________________________________//
                 if (obj1x < obj2x && obj2y < obj1y)
                 {
