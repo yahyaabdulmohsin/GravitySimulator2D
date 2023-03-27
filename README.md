@@ -5,11 +5,11 @@ honors project for physics :)
 You need:
 - SFML
 
-![alt text](https://yahyaabdulmohsin.com/GravitySimulator2D/initial.png)
+![alt text](/GravitySimulator2D/initial.png)
 
-![alt text](https://yahyaabdulmohsin.com/GravitySimulator2D/initial1.png)
+![alt text](/GravitySimulator2D/initial1.png)
 
-![alt text](https://yahyaabdulmohsin.com/GravitySimulator2D/final.png)
+![alt text](/GravitySimulator2D/final.png)
 
 Build with g++:
 
