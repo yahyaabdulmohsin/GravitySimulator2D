@@ -20,6 +20,8 @@ CelestialBody::CelestialBody(float pos_x, float pos_y, float radius, float mass,
     {
         s.setFillColor(sf::Color::Blue);
     }
+    
+    float angleRADS = (3.1415926536 / 180) * (direction);
 
     xVelocity = velocity * std::cos(angleRADS);
     yVelocity = velocity * std::sin(angleRADS);
